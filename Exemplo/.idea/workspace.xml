@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3144ec6-cc25-4b06-a381-1d6b5b15d93e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y24jb3cF24v6kNd80kfAkWOlR9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="URI1001" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="URI1001" />
+      <module name="Exemplo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="URI1001" />
+      <module name="Exemplo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3144ec6-cc25-4b06-a381-1d6b5b15d93e" name="Default Changelist" comment="" />
+      <created>1582127490408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582127490408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="120" width="1122" height="770" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582127795405">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="208" y="120" width="1122" height="770" key="#com.intellij.execution.impl.EditConfigurationsDialog/48.23.1392.877@48.23.1392.877" timestamp="1582127795405" />
+    <state x="444" y="258" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582127778908">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="444" y="258" key="#com.intellij.ide.util.TreeClassChooserDialog/48.23.1392.877@48.23.1392.877" timestamp="1582127778908" />
+  </component>
+</project>
