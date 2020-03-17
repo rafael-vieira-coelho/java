@@ -1,0 +1,2 @@
+Pessoa{nome=Maria, idade=34, sexo=Feminino}
+Pessoa{nome=Zé, idade=29, sexo=Masculino}
