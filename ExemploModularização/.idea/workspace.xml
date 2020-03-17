@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="394e22f9-d583-4811-97ba-9d37a0eaff6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XwXCJpyHNjetiF9hcbyRVyd7kk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Correto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Correto" />
+      <module name="ExemploModularização" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Correto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="394e22f9-d583-4811-97ba-9d37a0eaff6d" name="Default Changelist" comment="" />
+      <created>1581958001186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581958001186</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="271" key="GridCell.Tab.0.bottom" timestamp="1582893101537">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1582892982706">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1582892982706" />
+    <state width="1340" height="217" key="GridCell.Tab.0.bottom.inPresentationMode/48.23.1392.877@48.23.1392.877" timestamp="1582892770975" />
+    <state width="1440" height="325" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582893069739" />
+    <state width="1340" height="271" key="GridCell.Tab.0.bottom/48.23.1392.877@48.23.1392.877" timestamp="1582893101537" />
+    <state width="1340" height="271" key="GridCell.Tab.0.center" timestamp="1582893101536">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1582892982705">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.0.center.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1582892982705" />
+    <state width="1340" height="217" key="GridCell.Tab.0.center.inPresentationMode/48.23.1392.877@48.23.1392.877" timestamp="1582892770973" />
+    <state width="1440" height="325" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582893069737" />
+    <state width="1340" height="271" key="GridCell.Tab.0.center/48.23.1392.877@48.23.1392.877" timestamp="1582893101536" />
+    <state width="1340" height="271" key="GridCell.Tab.0.left" timestamp="1582893101536">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1582892982704">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.0.left.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1582892982704" />
+    <state width="1340" height="217" key="GridCell.Tab.0.left.inPresentationMode/48.23.1392.877@48.23.1392.877" timestamp="1582892770973" />
+    <state width="1440" height="325" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582893069734" />
+    <state width="1340" height="271" key="GridCell.Tab.0.left/48.23.1392.877@48.23.1392.877" timestamp="1582893101536" />
+    <state width="1340" height="271" key="GridCell.Tab.0.right" timestamp="1582893101537">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1582892982706">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.0.right.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1582892982706" />
+    <state width="1340" height="217" key="GridCell.Tab.0.right.inPresentationMode/48.23.1392.877@48.23.1392.877" timestamp="1582892770974" />
+    <state width="1440" height="325" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582893069738" />
+    <state width="1340" height="271" key="GridCell.Tab.0.right/48.23.1392.877@48.23.1392.877" timestamp="1582893101537" />
+    <state width="1340" height="271" key="GridCell.Tab.1.bottom" timestamp="1582893101538">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1582892954134">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.1.bottom.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1582892954134" />
+    <state width="1440" height="325" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582893069741" />
+    <state width="1340" height="271" key="GridCell.Tab.1.bottom/48.23.1392.877@48.23.1392.877" timestamp="1582893101538" />
+    <state width="1340" height="271" key="GridCell.Tab.1.center" timestamp="1582893101538">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1582892954132">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.1.center.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1582892954132" />
+    <state width="1440" height="325" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582893069740" />
+    <state width="1340" height="271" key="GridCell.Tab.1.center/48.23.1392.877@48.23.1392.877" timestamp="1582893101538" />
+    <state width="1340" height="271" key="GridCell.Tab.1.left" timestamp="1582893101537">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1582892954131">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.1.left.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1582892954131" />
+    <state width="1440" height="325" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582893069739" />
+    <state width="1340" height="271" key="GridCell.Tab.1.left/48.23.1392.877@48.23.1392.877" timestamp="1582893101537" />
+    <state width="1340" height="271" key="GridCell.Tab.1.right" timestamp="1582893101538">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1582892954133">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="325" key="GridCell.Tab.1.right.inPresentationMode/0.0.1440.900@0.0.1440.900" timestamp="1582892954133" />
+    <state width="1440" height="325" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582893069740" />
+    <state width="1340" height="271" key="GridCell.Tab.1.right/48.23.1392.877@48.23.1392.877" timestamp="1582893101538" />
+  </component>
+</project>
